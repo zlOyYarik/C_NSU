@@ -26,6 +26,7 @@ int main(){
     }
     fclose(inF);
     fclose(ouF);
+    return 0;
 }
 
 int isCorrect(int arr[], int lenArr){
